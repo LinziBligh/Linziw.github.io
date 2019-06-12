@@ -1,11 +1,11 @@
 # Site settings
 author: Lindsey Wells
-title: 
+title: title test
 header-img: img/home-bg.png
 email: lindsey.wells84@gmail.com
 copyright_name: Lindsey Wells
 description: > # this means to ignore newlines until "baseurl:"
-  
+  subtitle test
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Linziw
