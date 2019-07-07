@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Update and instance methods"
-date:       2019-07-07 05:37:49 +0000
+date:       2019-07-07 01:37:51 -0400
 permalink:  update_and_instance_methods
 ---
 
