@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Javascript Project"
+title:      "OffMyTrolley - Javascript Portfolio Project"
 date:       2020-05-02 06:11:56 -0400
 permalink:  javascript_project
 ---
